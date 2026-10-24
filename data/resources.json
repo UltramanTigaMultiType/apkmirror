@@ -1,7 +1,7 @@
 {
-  "title": "Komi-Store",
-  "description": "开源的GitHub应用商店",
-  "updatedAt": "2026-10-23",
+  "title": "资源导航站",
+  "description": "整理互联网上好用的软件",
+  "updatedAt": "2026-10-24",
   "assetBase": "",
   "categories": ["开源软件"],
   "resources": [
@@ -40,6 +40,52 @@
       "cover": "https://localsend.org/img/logo.png",
       "featured": false,
       "addedAt": "2026-10-24"
-    }
-  ]
-}
+    },
+    {
+      "id": "004",
+      "title": "GKD 自定义屏幕点击应用",
+      "url": "https://gkd.li",
+      "download": "https://fastg.de5.net/https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk",
+      "category": "跳广告",
+      "tags": ["开源软件", "跳广告", "GKD"],
+      "description": "非常好用的跳广告软件，李跳跳停更后的最佳选择",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/GKD.png",
+      "featured": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "005",
+      "title": "雹 实现冻结自由！",
+      "url": "https://github.com/aistra0528/Hail",
+      "download": "https://fastg.de5.net/github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk",
+      "category": "冻结应用",
+      "tags": ["开源软件", "冻结"]
+      "description": "可以冻结那些让你看着不爽的应用",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/aistra0528/Hail/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "featured": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "006",
+      "title": "黑阈 防止应用后台运行",
+      "url": "https://brevent.jianyv.com",
+      "download": "https://dl.jianyv.com/br/latest.apk",
+      "category": "实用工具",
+      "tags": ["工具", "adb"]
+      "description": "可以防止应用在后台运行，也可以用来执行adb命令",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/brevent.png",
+      "featured": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "006",
+      "title": "文件管理启动器",
+      "url": "https://github.com/surf5726/documentsui-shortcut",
+      "download": "https://fastg.de5.net/github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk",
+      "category": "文件管理",
+      "tags": ["开源软件", "文件管理", "系统"]
+      "description": "可以帮你启动原生安卓的文件管理器",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/aistra0528/Hail/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "featured": true,
+      "addedAt": "2026-10-24"
+    },
