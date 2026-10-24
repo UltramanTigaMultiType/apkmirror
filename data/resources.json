@@ -1,0 +1,45 @@
+{
+  "title": "Komi-Store",
+  "description": "开源的GitHub应用商店",
+  "updatedAt": "2026-10-23",
+  "assetBase": "",
+  "categories": ["开源软件"],
+  "resources": [
+    {
+      "id": "001",
+      "title": "Komi-Store",
+      "url": "https://github.com/komi-store/komi-store",
+      "download": "https://fastg.de5.net/https://github.com/komi-store/komi-store/releases/download/v1.9.3/Komi-Store-1.9.3.apk",
+      "category": "应用商店",
+      "tags": ["开源软件", "GitHub", "应用商店"],
+      "description": "在没用代理的情况下也能用的GitHub应用商店，不过不支持下载源码和查看没有Releases的仓库",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/Komi-Store.webp",
+      "featured": true,
+      "addedAt": "2026-10-23"
+    },
+    {
+      "id": "002",
+      "title": "shizuku 原版",
+      "url": "https://shizuku.rikka.app/zh-hans",
+      "download": "https://fastg.de5.net/https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
+      "category": "开发工具",
+      "tags": ["shizuku", "玩机","工具","开源软件"],
+      "description": "让你的应用直接使用系统API",
+      "cover": "https://shizuku.rikka.app/logo.png",
+      "featured": false,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "003",
+      "title": "LocalSend",
+      "url": "https://localsend.org/zh-CN",
+      "download": "https://fastg.de5.net/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
+      "category": "文件传输",
+      "tags": ["文件传输", "开源软件","局域网"],
+      "description": "开源的局域网传输工具",
+      "cover": "https://localsend.org/img/logo.png",
+      "featured": false,
+      "addedAt": "2026-10-24"
+    }
+  ]
+}
