@@ -9,7 +9,7 @@
       "id": "001",
       "title": "Komi-Store",
       "url": "https://github.com/komi-store/komi-store",
-      "download": "https://fastg.de5.net/https://github.com/komi-store/komi-store/releases/download/v1.9.3/Komi-Store-1.9.3.apk",
+      "download": "https://fastg.de5.net/https://github.com/komi-store/komi-store/releases/download/v1.9.4/Komi-Store-1.9.4.apk",
       "category": "应用商店",
       "tags": ["开源软件", "GitHub", "应用商店"],
       "description": "在没用代理的情况下也能用的GitHub应用商店，不过不支持下载源码和查看没有Releases的仓库",
@@ -78,14 +78,38 @@
       "addedAt": "2026-10-24"
     },
     {
-      "id": "006",
+      "id": "007",
       "title": "文件管理启动器",
       "url": "https://github.com/surf5726/documentsui-shortcut",
-      "download": "https://fastg.de5.net/github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk",
+      "download": "https://fastg.de5.net/github.com/surf5726/documentsui-shortcut/releases/download/v1.0.8/app-release.apk",
       "category": "文件管理",
       "tags": ["开源软件", "文件管理", "系统"]
       "description": "可以帮你启动原生安卓的文件管理器",
-      "cover": "https://fastg.de5.net/raw.githubusercontent.com/aistra0528/Hail/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/documentsui-shortcut.png",
       "featured": true,
       "addedAt": "2026-10-24"
+    },
+    {
+      "id": "008",
+      "title": "ShizWall 无需VPN即可禁止应用联网",
+      "url": "https://github.com/ahmetcanarslan/shizuwall",
+      "download": "https://github.com/AhmetCanArslan/ShizuWall/releases/download/v4.6.8/ShizuWall-4.6.8.apk",
+      "category": "防火墙",
+      "tags": ["开源软件", "网络控制", "防火墙"]
+      "description": "可以让任何应用禁止联网",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/AhmetCanArslan/ShizuWall/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "featured": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "009",
+      "title": "LSPatch 无需root的Xposed框架",
+      "url": "https://github.com/JingMatrix/LSPatch",
+      "download": "https://fastg.de5.net/github.com/JingMatrix/LSPatch/releases/download/v1.2/manager-v1.2-487-release.apk",
+      "category": "Xposed框架",
+      "tags": ["开源软件", "Xposed框架", "免root", "模块"]
+      "description": "无需root的Xposed框架",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/aistra0528/Hail/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "featured": true,
+      "addedAt": "2026-10-25"
     },
