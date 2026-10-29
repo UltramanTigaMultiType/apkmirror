@@ -19,7 +19,7 @@
     },
     {
       "id": "002",
-      "title": "shizuku 原版",
+      "title": "Shizuku 原版",
       "url": "https://shizuku.rikka.app/zh-hans",
       "download": "https://fastg.de5.net/https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
       "category": "开发工具",
@@ -59,7 +59,7 @@
       "url": "https://github.com/aistra0528/Hail",
       "download": "https://fastg.de5.net/github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk",
       "category": "冻结应用",
-      "tags": ["开源软件", "冻结"]
+      "tags": ["开源软件", "冻结"],
       "description": "可以冻结那些让你看着不爽的应用",
       "cover": "https://fastg.de5.net/raw.githubusercontent.com/aistra0528/Hail/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
       "featured": true,
@@ -71,7 +71,7 @@
       "url": "https://brevent.jianyv.com",
       "download": "https://dl.jianyv.com/br/latest.apk",
       "category": "实用工具",
-      "tags": ["工具", "adb"]
+      "tags": ["工具", "adb"],
       "description": "可以防止应用在后台运行，也可以用来执行adb命令",
       "cover": "https://fastg.de5.net/raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/brevent.png",
       "featured": true,
@@ -83,7 +83,7 @@
       "url": "https://github.com/surf5726/documentsui-shortcut",
       "download": "https://fastg.de5.net/github.com/surf5726/documentsui-shortcut/releases/download/v1.0.8/app-release.apk",
       "category": "文件管理",
-      "tags": ["开源软件", "文件管理", "系统"]
+      "tags": ["开源软件", "文件管理", "系统"],
       "description": "可以帮你启动原生安卓的文件管理器",
       "cover": "https://fastg.de5.net/raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/documentsui-shortcut.png",
       "featured": true,
@@ -95,7 +95,7 @@
       "url": "https://github.com/ahmetcanarslan/shizuwall",
       "download": "https://github.com/AhmetCanArslan/ShizuWall/releases/download/v4.6.8/ShizuWall-4.6.8.apk",
       "category": "防火墙",
-      "tags": ["开源软件", "网络控制", "防火墙"]
+      "tags": ["开源软件", "网络控制", "防火墙"],
       "description": "可以让任何应用禁止联网",
       "cover": "https://fastg.de5.net/raw.githubusercontent.com/AhmetCanArslan/ShizuWall/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
       "featured": true,
@@ -107,9 +107,71 @@
       "url": "https://github.com/JingMatrix/LSPatch",
       "download": "https://fastg.de5.net/github.com/JingMatrix/LSPatch/releases/download/v1.2/manager-v1.2-487-release.apk",
       "category": "Xposed框架",
-      "tags": ["开源软件", "Xposed框架", "免root", "模块"]
+      "tags": ["开源软件", "Xposed框架", "免root", "模块"],
       "description": "无需root的Xposed框架",
-      "cover": "https://fastg.de5.net/raw.githubusercontent.com/aistra0528/Hail/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/LSPatch.webp",
       "featured": true,
       "addedAt": "2026-10-25"
     },
+    {
+      "id": "010",
+      "title": "BetterVia 认Via变得更好",
+      "url": "https://github.com/JiGuroLGC/BetterVia",
+      "download": "https://ghapi.de5.net/https://github.com/JiGuroLGC/BetterVia/releases/download/20260825_2.2.1/BetterVia_2.2.1.apk",
+      "category": "Xposed模块",
+      "tags": ["开源软件", "Xposed模块", "模块"],
+      "description": "一款针对安卓浏览器Via的Xposed优化模块",
+      "cover": "https://ghapi.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/BetterVia.webp",
+      "featured": true,
+      "addedAt": "2026-10-27"
+    },    
+    {
+      "id": "011",
+      "title": "Aurora Store 第三方Google Play商店",
+      "url": "https://github.com/JingMatrix/LSPatch",
+      "download": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.8.4.apk",
+      "category": "应用商店",
+      "tags": ["开源软件", "应用商店", "Google Play商店"],
+      "description": "无需Google服务的第三方Google Play商店",
+      "cover": "https://ghapi.de5.net/https://raw.githubusercontent.com/whyorean/AuroraStore/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "featured": true,
+      "addedAt": "2026-10-27"
+    },
+    {
+      "id": "012",
+      "title": "Deer God",
+      "url": "https://github.com/Xposed-Modules-Repo/com.wengui.hook",
+      "download": "https://ghapi.de5.net/https://github.com/Xposed-Modules-Repo/com.wengui.hook/releases/download/20-0.5.4/Deer.God.0.5.4.apk",
+      "category": "Xposed模块",
+      "tags": ["开源软件", "Xposed模块", "免root", "去广告"],
+      "description": "支持解锁众多软件的会员和去除广告",
+      "cover": "https://ghapi.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/Deer_God.webp",
+      "featured": true,
+      "addedAt": "2026-10-27"
+    },
+    {
+      "id": "013",
+      "title": "Dhizuku",
+      "url": "https://github.com/iamr0s/Dhizuku",
+      "download": "https://ghapi.de5.net/https://github.com/iamr0s/Dhizuku/releases/download/v2.12.0/Dhizuku_v2.12.0.apk",
+      "category": "玩机",
+      "tags": ["开源软件", "玩机", "Dhizuku", "设备所有者"],
+      "description": "一个可以将设备所有者权限分享给其他应用的工具",
+      "cover": "https://ghapi.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/Dhizuku.webp",
+      "featured": true,
+      "addedAt": "2026-10-27"
+    },
+    {
+      "id": "011",
+      "title": "Bitwarden 安全的密码管理器",
+      "url": "https://github.com/bitwarden/android",
+      "download": "https://ghapi.de5.net/https://github.com/bitwarden/android/releases/download/v2026.10.0-bwpm/com.x8bit.bitwarden.apk",
+      "category": "密码管理",
+      "tags": ["开源软件", "密码管理", "密码生成", "安全隐私"],
+      "description": "帮你生成强大的密码并保存",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/bitwarden.webp",
+      "featured": true,
+      "addedAt": "2026-10-29"
+    },
+  ]
+}
