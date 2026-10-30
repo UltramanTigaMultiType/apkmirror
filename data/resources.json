@@ -162,16 +162,64 @@
       "addedAt": "2026-10-27"
     },
     {
-      "id": "011",
+      "id": "014",
       "title": "Bitwarden 安全的密码管理器",
       "url": "https://github.com/bitwarden/android",
-      "download": "https://ghapi.de5.net/https://github.com/bitwarden/android/releases/download/v2026.10.0-bwpm/com.x8bit.bitwarden.apk",
+      "download": "https://ghapi.de5.net/https://github.com/bitwarden/android/releases/download/v2026.10.1-bwpm/com.x8bit.bitwarden.apk",
       "category": "密码管理",
       "tags": ["开源软件", "密码管理", "密码生成", "安全隐私"],
       "description": "帮你生成强大的密码并保存",
       "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/bitwarden.webp",
       "featured": true,
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "015",
+      "title": "speed",
+      "url": "https://github.com/zejiahuang/speed",
+      "download": "https://fastg.de5.net/https://github.com/zejiahuang/speed/releases/download/v0.4.2/speed-0.4.2-arm64-v8a.apk",
+      "category": "网络加速",
+      "tags": ["开源软件", "网络加速", "Steam++"],
+      "description": "基于Steam++制作的工具，专为解决国内访问GitHub受限的问题",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/zejiahuang/speed/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "featured": true,
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "016",
+      "title": "MT管理器",
+      "url": "https://mt2.cn",
+      "download": "https://mt2.cn/download",
+      "category": "逆向破解",
+      "tags": [ "逆向破解", "逆向"],
+      "description":"安卓平台文件管理&逆向修改神器",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/mt.svg",
+      "featured": true,
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "017",
+      "title": "Termux",
+      "url": "https://termux.dev/cn/",
+      "download": "https://fastg.de5.net/https://github.com/zejiahuang/speed/releases/download/v0.4.2/speed-0.4.2-arm64-v8a.apk",
+      "category": "终端模拟",
+      "tags": ["开源软件", "Termux", "Linux终端模拟", "命令行"],
+      "description": "一个安卓系统终端模拟器应用",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "featured": true,
+      "addedAt": "2026-10-30"
+    },
+    {
+      "id": "018",
+      "title": "PiliPlus",
+      "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
+      "download": "https://fastg.de5.net/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_android_2.1.6-b2d6a5bef+5472_arm64-v8a.apk",
+      "category": "B站",
+      "tags": ["开源软件", "第三方b站", "bilibili"],
+      "description": "使用Flutter开发的BiliBili第三方客户端",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png",
+      "featured": true,
+      "addedAt": "2026-10-30"
     },
   ]
 }
