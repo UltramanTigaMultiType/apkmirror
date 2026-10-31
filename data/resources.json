@@ -153,7 +153,7 @@
       "id": "013",
       "title": "Dhizuku",
       "url": "https://github.com/iamr0s/Dhizuku",
-      "download": "https://ghapi.de5.net/https://github.com/iamr0s/Dhizuku/releases/download/v2.12.0/Dhizuku_v2.12.0.apk",
+      "download": "https://ghapi.de5.net/https://github.com/iamr0s/Dhizuku/releases/download/v2.13.0/Dhizuku-v2.13.0.apk",
       "category": "玩机",
       "tags": ["开源软件", "玩机", "Dhizuku", "设备所有者"],
       "description": "一个可以将设备所有者权限分享给其他应用的工具",
@@ -220,6 +220,18 @@
       "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png",
       "featured": true,
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "019",
+      "title": "OpenList",
+      "url": "https://github.com/OpenListTeam/OpenList-Mobile",
+      "download": "https://fastg.de5.net/https://github.com/OpenListTeam/OpenList-Mobile/releases/download/v4.2.9.26102517/OpenList-Mobile-v4.2.9.26102517_arm64-v8a.apk",
+      "category": "网盘",
+      "tags": ["开源软件", "网盘", "网盘挂载", "alist"],
+      "description": "OpenList是一个有韧性、长期治理、社区驱动的AList分支，旨在防御基于信任的开源攻击。",
+      "cover": "https://fastg.de5.net/raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg",
+      "featured": true,
+      "addedAt": "2026-10-31"
     },
   ]
 }
