@@ -193,7 +193,7 @@
       "category": "逆向破解",
       "tags": [ "逆向破解", "逆向"],
       "description":"安卓平台文件管理&逆向修改神器",
-      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/mt.svg",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/UltramanTigaMultiType/apkmirror/main/covers/<.svg",
       "featured": true,
       "addedAt": "2026-10-29"
     },
@@ -213,7 +213,7 @@
       "id": "018",
       "title": "PiliPlus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
-      "download": "https://fastg.de5.net/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_android_2.1.6-b2d6a5bef+5472_arm64-v8a.apk",
+      "download": "https://fastg.de5.net/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.2/PiliPlus_android_2.2.0-d9e9626f1+5598_arm64-v8a.apk",
       "category": "B站",
       "tags": ["开源软件", "第三方b站", "bilibili"],
       "description": "使用Flutter开发的BiliBili第三方客户端",
@@ -232,6 +232,42 @@
       "cover": "https://fastg.de5.net/raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg",
       "featured": true,
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "020",
+      "title": "GitHub资源下载器",
+      "url": "https://github.com/xiangyang122485/Qihang",
+      "download": "https://fastg.de5.net/https://github.com/xiangyang122485/Qihang/releases/download/v1.3.2/Qihang-1.3.2-com.gh.dl-release.apk",
+      "category": "下载器",
+      "tags": ["开源软件", "GitHub", "资源下载"],
+      "description": "Android GitHub资源下载器：下载Release文件、拉取源码、克隆仓库、浏览仓库主页",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/xiangyang122485/Qihang/main/app/src/main/res/drawable-nodpi/app_icon_art.png",
+      "featured": true,
+      "addedAt": "2026-11-1"
+    },
+    {
+      "id": "021",
+      "title": "GitHub资源下载器",
+      "url": "https://github.com/xiangyang122485/Qihang",
+      "download": "https://fastg.de5.net/https://github.com/xiangyang122485/Qihang/releases/download/v1.3.2/Qihang-1.3.2-com.gh.dl-release.apk",
+      "category": "下载器",
+      "tags": ["开源软件", "GitHub", "资源下载"],
+      "description": "从源头获取的应用更新",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/xiangyang122485/Qihang/main/app/src/main/res/drawable-nodpi/app_icon_art.png",
+      "featured": true,
+      "addedAt": "2026-11-1"
+    },
+    {
+      "id": "021",
+      "title": "Obtainium",
+      "url": "https://github.com/xiangyang122485/Qihang",
+      "download": "https://fastg.de5.net/https://github.com/xiangyang122485/Qihang/releases/download/v1.3.2/Qihang-1.3.2-com.gh.dl-release.apk",
+      "category": "追踪",
+      "tags": ["开源软件", "追踪应用", "更新"],
+      "description": "从源头获取应用更新",
+      "cover": "https://fastg.de5.net/https://raw.githubusercontent.com/xiangyang122485/Qihang/main/app/src/main/res/drawable-nodpi/app_icon_art.png",
+      "featured": true,
+      "addedAt": "2026-11-2"
     },
   ]
 }
