@@ -156,8 +156,6 @@
     </div>
   </header>
 
-  <nav id="cats" class="chips" aria-label="分类"></nav>
-
   <div id="tagBar" class="tag-bar" hidden>
     当前标签：<strong id="tagLabel"></strong>
     <button id="clearTag" class="link-btn">移除</button>
@@ -229,7 +227,6 @@ async function init() {
     if (DATA.description) $('siteDesc').textContent = DATA.description;
     $('footerInfo').textContent = DATA.footer || (DATA.updatedAt ? `更新于 ${DATA.updatedAt}` : '');
 
-    setupCats();
     readHash();
     bindEvents();
     render();
@@ -354,7 +351,6 @@ function card(r) {
       ${cover
         ? `<img src="${esc(cover)}" alt="${esc(r.title)}" loading="lazy" onerror="__imgError(this)">`
         : `<span>${esc((r.title || '?').slice(0, 1))}</span>`}
-      ${r.featured ? '<span class="badge">精选</span>' : ''}
     </div>
     <div class="body">
       <h3 class="title">${esc(r.title)}</h3>
